@@ -1,1 +1,0 @@
-# static-website-azure2
